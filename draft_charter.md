@@ -74,6 +74,27 @@ Sooner or later, DeFi needs to find the "clever" solution(s) to resolve these tw
 ## Related work:
 JFSA (2019, Research on privacy and traceability of emerging blockchain based financial transactions, https://www.fsa.go.jp/en/policy/bgin/ResearchPaper_MRI.pdf
 
+Financial Action Task Force, Guidance on Digital Identity (March 2020),
+https://www.fatf-gafi.org/media/fatf/documents/recommendations/pdfs/Guidance-on-Digital-Identity.pdf
+
+Financial Action Task Force, Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (June 2019),
+http://www.fatf-gafi.org/media/fatf/documents/recommendations/RBA-VA-VASPs.pdf
+
+Financial Stability Board, Decentralised financial technologies: Report on financial stability, regulatory and governance implications (June 6, 2019),
+https://www.fsb.org/wp-content/uploads/P060619.pdf
+
+Cryptoassets Governance Task Force, General Security Considerations for Cryptoassets Custodians (Internet-draft)(November 2019),
+https://tools.ietf.org/html/draft-vcgtf-crypto-assets-security-considerations-05
+
+The Sovrin Foundation, Sovrin: A Protocol and Token for Self Sovereign Identity and Decentralized Trust (January 2018),
+https://sovrin.org/wp-content/uploads/2018/03/Sovrin-Protocol-and-Token-White-Paper.pdf
+
+European CentralBank and the Bank of Japan, Balancing confidentiality and auditability in a distributed ledger environment (February 2020),
+https://www.boj.or.jp/en/announcements/release_2020/data/rel200212a1.pdf
+
+Yuta Takanashi et al., “Call for Multi-Stakeholder Communication to Establish a Governance Mechanism for the Emerging Blockchain-Based Financial Ecosystem, Part 1 of 2”, Stanford Journal of Blockchain Law & Policy (January 2020),
+https://stanford-jblp.pubpub.org/pub/multistakeholder-comm-governance/release/1
+
 ## Proposers
 
 ## Anticipated contributions:

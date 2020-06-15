@@ -2,9 +2,11 @@
 
 Taking into account
 
-the Interest of WG5 members/audience in 14th (Rome) and 15th (Sophia Antipolis) meeting in 
-the results of the ‘Study Period on Data deletion principles for personally identifiable information in organizations”; 
-see ISO/IEC JTC 1/SC 27 N-documents: ToR: N11279; reports: N11750 (Rome), N12274 (Sophia Antipolis); N512274, N13097 (Incheon).
+the Interest of commnity around the identity and key management as well as the privacy protection 
+for or by distributed ledger and recently published articles such as: 
+
+* JFSA: Research on privacy and traceability of emerging blockchain based financial transactions (2020)
+* ... 
 
 
 BGIN

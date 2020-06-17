@@ -47,6 +47,7 @@ The work will be completed once it is apparent that maximal consensus on the dra
 Although it is not clearly devidable, in the current blockchain based financial system, there are conceptually two different types of systems depending on the underlying technologies; centralized systems and decentralized permissionless systems. Both of them have been facing difficulties including handling identity, privacy and regulatory compliance, and key management issues. This working group will develop documents with the aim at addressing and mitigating these difficulties.  
 
 1. Crypto currency exchanges
+
 As we are painfully aware, identity and access management to crypto-currency exchanges
 In many cases, Fintech services such as aggregation services uses screen scraping and stores user passwords. This model is both brittle and insecure. To cope with the brittleness, it should utilize an API model with structured data and to cope with insecurity, it should utilize a token model such as OAuth [RFC6749, RFC6750].
 
@@ -55,6 +56,7 @@ There are some examples of API models such as OFX, but it uses SOAP/XML model. H
 This working group aims to rectify the situation by developing a REST/JSON model protected by OAuth.
 
 2. Privacy and traceability issues for fully decentralized permissionless financial system (DeFi)
+
 Fully decentralized permissionless financial system is still just an imaginary creature at this moment. However, no one can predict what will happen in mid-to-long term especially because of the rapid development of relevant technologies and enthuasism in blockchain community.
 
 In recent years, many privacy enhancing technologies for DeFi have been developed within the tech community with several aims including preserving user privacy and enhancing fungibility. Needless to say, privacy is important for users of financial services; however, at the same time, privacy could make it harder for enforcement authorities to find out and catch financial criminals. In recent yeasr, in particular after the publication of Libra proposal with the plan for transition to permmissionless system, regulatory authorities and AML/CFT authorities have more and more become keen on the implecation of decentralized permissionless system for financial regulations.

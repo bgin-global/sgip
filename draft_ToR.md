@@ -34,6 +34,6 @@ tasks the rapporteurs of the study group
 * to create a [draft charter](https://github.com/bgin-global/sgip/blob/master/draft_charter.md) for the WG. 
 
 The rapporteurs are requested to provide their result in time for the upcoming 
-BGIN Online Meeting on June 15, 2020.
+BGIN Online Meeting on June 18, 2020.
 
 

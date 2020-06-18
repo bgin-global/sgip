@@ -3,7 +3,29 @@
 Taking into account
 
 the Interest of commnity around the identity and key management as well as the privacy protection 
-for or by distributed ledger and recently published articles such as: 
+for or by distributed ledger and recently published articles such as the ones in the reference section, 
+
+BGIN
+
+Establishes
+
+> a study group on the IAM, Privacy, and Key Managent
+
+appoints
+
+> Katharina Pistor and Nat Sakimura as co-chairs/rapporteurs
+
+tasks the rapporteurs of the study group
+
+* to assess the viability of establishing a Working Group on IAM, Privacy, and Key Management; and
+* to create a [draft charter](https://github.com/bgin-global/sgip/blob/master/draft_charter.md) for the WG. 
+
+The rapporteurs are requested to provide their result in time for the next  
+BGIN Online Meeting.
+
+## Reference
+
+ 
 
 * W3C, Verifiable Credentials Data Model 1.0 (2019), https://www.w3.org/TR/vc-data-model/
 
@@ -24,22 +46,5 @@ for or by distributed ledger and recently published articles such as:
 * Yuta Takanashi et al., “Call for Multi-Stakeholder Communication to Establish a Governance Mechanism for the Emerging Blockchain-Based Financial Ecosystem, Part 1 of 2”, Stanford Journal of Blockchain Law & Policy (January 2020), https://stanford-jblp.pubpub.org/pub/multistakeholder-comm-governance/release/1
 
 
-BGIN
-
-Establishes
-
-> a study group on the IAM, Privacy, and Key Managent
-
-appoints
-
-> Katharina Pistor and Nat Sakimura as co-chairs/rapporteurs
-
-tasks the rapporteurs of the study group
-
-* to assess the viability of establishing a Working Group on IAM, Privacy, and Key Management; and
-* to create a [draft charter](https://github.com/bgin-global/sgip/blob/master/draft_charter.md) for the WG. 
-
-The rapporteurs are requested to provide their result in time for the next  
-BGIN Online Meeting.
 
 

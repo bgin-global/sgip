@@ -33,7 +33,7 @@ tasks the rapporteurs of the study group
 * to assess the viability of establishing a Working Group on IAM, Privacy, and Key Management; and
 * to create a [draft charter](https://github.com/bgin-global/sgip/blob/master/draft_charter.md) for the WG. 
 
-The rapporteurs are requested to provide their result in time for the upcoming 
-BGIN Online Meeting on June 18, 2020.
+The rapporteurs are requested to provide their result in time for the next  
+BGIN Online Meeting.
 
 

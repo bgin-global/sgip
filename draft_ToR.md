@@ -5,15 +5,21 @@ Taking into account
 the Interest of commnity around the identity and key management as well as the privacy protection 
 for or by distributed ledger and recently published articles such as: 
 
+* W3C, Verifiable Credentials Data Model 1.0 (2019), https://www.w3.org/TR/vc-data-model/
+
+* Kantara Initiative, Report from the Blockchain and Smart Contracts Discussion Group (2918), https://kantarainitiative.org/download/6828/
+
+* Cryptoassets Governance Task Force, General Security Considerations for Cryptoassets Custodians (Internet-draft)(November 2019), https://tools.ietf.org/html/draft-vcgtf-crypto-assets-security-considerations-05
+
 * The Sovrin Foundation, Sovrin: A Protocol and Token for Self Sovereign Identity and Decentralized Trust (January 2018), https://sovrin.org/wp-content/uploads/2018/03/Sovrin-Protocol-and-Token-White-Paper.pdf
 
 * Financial Action Task Force, Guidance on Digital Identity (March 2020), https://www.fatf-gafi.org/media/fatf/documents/recommendations/pdfs/Guidance-on-Digital-Identity.pdf
 
-* Cryptoassets Governance Task Force, General Security Considerations for Cryptoassets Custodians (Internet-draft)(November 2019), https://tools.ietf.org/html/draft-vcgtf-crypto-assets-security-considerations-05
+* ISO/TR 23244:2020, Blockchain and distributed ledger technologies — Privacy and personally identifiable information protection considerations (2020), https://www.iso.org/standard/75061.html?browse=tc
 
 * Financial Stability Board, Decentralised financial technologies: Report on financial stability, regulatory and governance implications (June 6, 2019), https://www.fsb.org/wp-content/uploads/P060619.pdf
 
-* JFSA (2019, Research on privacy and traceability of emerging blockchain based financial transactions, https://www.fsa.go.jp/en/policy/bgin/ResearchPaper_MRI.pdf
+* JFSA, Research on privacy and traceability of emerging blockchain based financial transactions (2019), https://www.fsa.go.jp/en/policy/bgin/ResearchPaper_MRI.pdf
 
 * Yuta Takanashi et al., “Call for Multi-Stakeholder Communication to Establish a Governance Mechanism for the Emerging Blockchain-Based Financial Ecosystem, Part 1 of 2”, Stanford Journal of Blockchain Law & Policy (January 2020), https://stanford-jblp.pubpub.org/pub/multistakeholder-comm-governance/release/1
 

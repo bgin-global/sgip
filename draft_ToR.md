@@ -33,7 +33,7 @@ BGIN Online Meeting.
 
 * Kantara Initiative, Report from the Blockchain and Smart Contracts Discussion Group (2918), https://kantarainitiative.org/download/6828/
 
-* Cryptoassets Governance Task Force, General Security Considerations for Cryptoassets Custodians (Internet-draft)(November 2019), https://tools.ietf.org/html/draft-vcgtf-crypto-assets-security-considerations-05
+* Cryptoassets Governance Task Force, General Security Considerations for Cryptoassets Custodians (Internet-draft)(November 2019), https://tools.ietf.org/html/draft-vcgtf-crypto-assets-security-considerations
 
 * The Sovrin Foundation, Sovrin: A Protocol and Token for Self Sovereign Identity and Decentralized Trust (January 2018), https://sovrin.org/wp-content/uploads/2018/03/Sovrin-Protocol-and-Token-White-Paper.pdf
 

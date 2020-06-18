@@ -18,7 +18,9 @@ appoints
 tasks the rapporteurs of the study group
 
 * to assess the viability of establishing a Working Group on IAM, Privacy, and Key Management; and
-* to create a [draft charter](https://github.com/bgin-global/sgip/blob/master/draft_charter.md) for the WG. 
+* to create a [draft charter](https://github.com/bgin-global/sgip/blob/master/draft_charter.md) for the WG 
+
+through the discussion and contributions through email list and GitHub repository. 
 
 The rapporteurs are requested to provide their result in time for the next  
 BGIN Online Meeting.

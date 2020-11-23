@@ -1,4 +1,4 @@
-# Draft Terms of Reference for  Study Group on IAM, Privacy, and Key Management
+# Terms of Reference for  Study Group on IAM, Privacy, and Key Management
 
 Taking into account
 

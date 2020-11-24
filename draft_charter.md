@@ -1,7 +1,7 @@
 # BGIN IAM, Key Management & Privacy Working Group DRAFT Charter
 
 ## 1) Working Group name:
-IAM, Key Management and Privacy Working Group (IPWG)
+Privacy, Identity and Key Management Working Group (PIK WG)
 
 ## 2) Purpose
 The goal of IPWG is:

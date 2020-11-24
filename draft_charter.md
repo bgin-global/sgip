@@ -46,14 +46,14 @@ The work will be completed once it is apparent that maximal consensus on the dra
 # Background information
 Although it is not clearly devidable, in the current blockchain based financial system, there are conceptually two different types of systems depending on the underlying technologies; centralized systems and decentralized permissionless systems. Both of them have been facing difficulties including handling identity, privacy and regulatory compliance, and key management issues. This working group will develop documents with the aim at addressing and mitigating these difficulties.  
 
-1. Crypto currency exchanges
+1. Key Managemnt
 
-As we are painfully aware, identity and access management to crypto-currency exchanges
-In many cases, Fintech services such as aggregation services uses screen scraping and stores user passwords. This model is both brittle and insecure. To cope with the brittleness, it should utilize an API model with structured data and to cope with insecurity, it should utilize a token model such as OAuth [RFC6749, RFC6750].
+Importance of key management cannot be overstaed. There are several reasons for it. e.g., 
 
-There are some examples of API models such as OFX, but it uses SOAP/XML model. However, SOAP/XML model has grown unpopular among the developers. Also, the OFX does not deploy the token model but uses user password, causing insecurity.
+* Consumer protection from lost and stolen signature key especially at custody and exchange 
+* AML/KYC from the point of view of the regulators. 
 
-This working group aims to rectify the situation by developing a REST/JSON model protected by OAuth.
+These issues needs to be discussed. 
 
 2. Privacy and traceability issues for fully decentralized permissionless financial system (DeFi)
 
@@ -89,4 +89,19 @@ https://stanford-jblp.pubpub.org/pub/multistakeholder-comm-governance/release/1
 
 ## Proposers
 
-## Anticipated contributions:
+1. Nat Sakimura
+1. Katerina Pshor
+1. Pindar Wong
+1. Shin'ichiro Matsuo
+1. Yuta Takanashi
+1. Ryosuke Ushida
+1. ...
+
+## Anticipated contributions
+
+1. Key Management Work Stream
+    1. Key management of centralized custody https://docs.google.com/document/d/1snx4ZW4TXEueUsBT7fFiVwDwmyfZlGggMW2Yc6Wgm0Y/edit#heading=h.bh83bxz5363p	
+    1. Key management of decentralized custody https://docs.google.com/document/d/1p8ppRrSCvJQAwu9w001EtMJS2Pl5XK7IlGRrLfywQVw/edit#heading=h.bh83bxz5363p	
+1. Decentralized Financial Technologies and Privacy, Identity and Traceability Work Stream
+    1. The Application of Decentralized Financial Technologies and Privacy, Identity and Traceability Considerations https://docs.google.com/document/d/1Tko_ERfXBpb8XE4BjvBHVWduFKcq_pIwIriSVZwu_Ic/edit?pli=1#	
+

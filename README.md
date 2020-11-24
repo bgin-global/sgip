@@ -28,6 +28,10 @@ For more details about the scope etc, please refer to ther Terms of Refernece [T
 ### Presentations
 
 1. Introduction: https://docs.google.com/presentation/d/1vY125E56BCSYgSDl9gKC8U8g2hXwcdbBtSfepqFUuB8/edit?usp=sharing
+1. Key Managmenet WS: (TBD)
+1. DeFi: (TBD)
+1. FATF: (TBD)
+1. CA Blockcahin WG (TBD)
 
 ### Documents
 
@@ -42,5 +46,8 @@ For more details about the scope etc, please refer to ther Terms of Refernece [T
 ### Call-in Information
 
 * https://us02web.zoom.us/j/2756483566
+
+## Informative Reference
+* [BGIN-Template] https://docs.google.com/document/d/1_gWTbTxqmW8KNAXBoNDoqIC7Ub3dVOc_8NQEKVeaydI/edit?usp=sharing
 
 

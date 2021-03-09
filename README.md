@@ -1,7 +1,7 @@
-# SGIP: Study group for Identity, Privacy, and Key Management
+# IPKM WG (was SGIP) 
 
 Acting co-chairs: Nat Sakimura(OpenID Foundation), 
-Katharina Pistor(Columbia Law School)
+
 
 ## Purpose
 
@@ -10,7 +10,7 @@ to create documents around identity, privacy and key management for or using Blo
 
 For more details about the scope etc, please refer to ther Terms of Refernece [TOR]. 
 
-## SGIP Meeting @ BGIN Block #2
+## IPKM WG Meeting @ BGIN Block #2
 
 ### Agenda
 
@@ -32,11 +32,8 @@ Tuesday, March 9 * 14:30-16:00  UTC
 
 ### Presentations
 
-1. Introduction: https://docs.google.com/presentation/d/1vY125E56BCSYgSDl9gKC8U8g2hXwcdbBtSfepqFUuB8/edit?usp=sharing
-1. Key Managmenet WS: (TBD)
-1. DeFi: (TBD)
-1. FATF: (TBD)
-1. CA Blockcahin WG (TBD)
+1. Introduction: https://docs.google.com/presentation/d/1id7aM1Rrhsa3ErbK5octygoTXOwbwuyKgHUt5qK9qPE/edit?usp=sharing
+
 
 ### Documents
 

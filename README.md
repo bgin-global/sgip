@@ -18,7 +18,7 @@ Tuesday, March 9 * 14:30-16:00  UTC
 
 1. 14:30-14:40 Introduction of IKP WG/SGIP [Nat]
 1. 14:40-15:00 Briefing on on-going three documents
-    1. 14:40-14:50  Decentralized Financial Technologies and Privacy, Identity and Traceability WS [Ryosuke Ushida]
+    1. 14:40-14:50  [Decentralized Financial Technologies and Privacy, Identity and Traceability WS](https://drive.google.com/file/d/1g7YNA3rJ864ezWQlhbbFZczlIWLBpUX0/view) [Ryosuke Ushida] 
     1. 14:50-15:00 Key Management WS (Centralized / Decentralized custody) [Yuji S]
 1. 15:00-15:50 Open discussion
     1. 15:00-15:25 Inputs from participants (5 min each)

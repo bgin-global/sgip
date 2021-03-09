@@ -10,20 +10,25 @@ to create documents around identity, privacy and key management for or using Blo
 
 For more details about the scope etc, please refer to ther Terms of Refernece [TOR]. 
 
-## SGIP Meeting @ BGIN Block #1
+## SGIP Meeting @ BGIN Block #2
 
 ### Agenda
 
-1. Introduction of SGIP (Nat) 10 min. ⇐ NOW
-1. Key Management WS (Shin’ichiro)  20 min. 
-1. Decentralized Financial Technologies and Privacy, Identity and  Traceability WS 25 min. 
-    1. Overview of the document (Ryosuke)
-    1. DEFI etc. (Senshi) 
-    1. Governance aspect (Brian Cute)
-1. FATF Travel Rules discussion (Shin’ichiro)  15 min
-1. Report from CA Blockchain Working Group on Digital Identity 10 min
+Tuesday, March 9 * 14:30-16:00  UTC
 
-1. Next steps 10 min 
+1. 14:30-14:40 Introduction of IKP WG/SGIP [Nat]
+1. 14:40-15:00 Briefing on on-going three documents
+    1. 14:40-14:50  Decentralized Financial Technologies and Privacy, Identity and Traceability WS [Ryosuke Ushida]
+    1. 14:50-15:00 Key Management WS (Centralized / Decentralized custody) [Yuji S]
+1. 15:00-15:50 Open discussion
+    1. 15:00-15:25 Inputs from participants (5 min each)
+        1. Ryan Taylor (Dash)
+        1. Steve Christie (Kraken)
+        1. Sachin Meier (Georgetown University)
+        1. Martin Florian (Weizenbaum Institut)
+    1. 15:25-15:50 Open discussion
+1. 15:50-16:00 AOB
+
 
 ### Presentations
 

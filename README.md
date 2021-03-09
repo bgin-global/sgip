@@ -25,7 +25,7 @@ Tuesday, March 9 * 14:30-16:00  UTC
         1. Ryan Taylor (Dash)
         1. Steve Christie (Kraken)
         1. Sachin Meier (Georgetown University)
-        1. Martin Florian (Weizenbaum Institut)
+        1. Martin Florian (Weizenbaum Institut):Collaborative Deanonymization [Youtube](https://www.youtube.com/watch?v=jHIyNtC0LK8) [Paper](https://arxiv.org/pdf/2005.03535.pdf)
     1. 15:25-15:50 Open discussion
 1. 15:50-16:00 AOB
 

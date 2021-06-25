@@ -1,4 +1,4 @@
-# BGIN IAM, Key Management & Privacy Working Group DRAFT Charter
+# BGIN IAM, Key Management & Privacy Working Group (IKP WG) Charter
 
 ## 1) Working Group name:
 IAM, Key Management and Privacy Working Group (IPWG)
@@ -95,7 +95,6 @@ https://stanford-jblp.pubpub.org/pub/multistakeholder-comm-governance/release/1
 1. Shin'ichiro Matsuo
 1. Yuta Takanashi
 1. Ryosuke Ushida
-1. ...
 
 ## Anticipated contributions
 

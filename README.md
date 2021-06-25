@@ -10,7 +10,33 @@ to create documents around identity, privacy and key management for or using Blo
 
 For more details about the scope etc, please refer to ther Terms of Refernece [TOR]. 
 
-## IPKM WG Meeting @ BGIN Block #2
+## IKP WG Meeting @ BGIN Block #3
+
+General agenda for the entire Block #3 is available from https://bgin-global.org/block_3/
+
+### Logistics
+
+* Time: 16:30-18:00 UTC, June 30th (18:00-19:00 UTC for Unconference session)
+* Location: 
+
+### Agenda for IKP WG Meeting
+
+1. Introduction of IKP WG/SGIP [Nat] 5min
+1. Briefings on three documents in progress [Yuji. S / Ryosuke] 45min (15min * 3)
+    1. [Present and Future of a Decentralized Financial System and the associated Regulatory Considerations](https://docs.google.com/document/d/1Tko_ERfXBpb8XE4BjvBHVWduFKcq_pIwIriSVZwu_Ic/edit?usp=sharing), Ryosuke USHIDA, Financial Services Agency (JAPAN)
+    1. [Key Management of Centralized Custody](https://docs.google.com/document/d/1snx4ZW4TXEueUsBT7fFiVwDwmyfZlGggMW2Yc6Wgm0Y/edit), Yuji SUGA, IIJ
+    1. [Key Management of Decentralized Custody](https://docs.google.com/document/d/1p8ppRrSCvJQAwu9w001EtMJS2Pl5XK7IlGRrLfywQVw/edit?usp=sharing), 
+
+1. Inputs from participants
+    1. Report on the JFSA-NRI joint study on SSI/DID/VC, Hideaki FURUKAWA, NRI Secure Technologies
+    1. On NFT, Claudio Levrini, CEO & Co-founder, Seven Labs
+    1. New work item proposals
+1. Open discussion 5 min
+1. AOB 5 min
+1. (Unconference session) 60min
+
+
+## IKP WG Meeting @ BGIN Block #2
 
 ### Agenda
 
@@ -18,8 +44,8 @@ Tuesday, March 9 * 14:30-16:00  UTC
 
 1. 14:30-14:40 Introduction of IKP WG/SGIP [Nat]
 1. 14:40-15:00 Briefing on on-going three documents
-    1. 14:40-14:50  [Decentralized Financial Technologies and Privacy, Identity and Traceability WS](https://drive.google.com/file/d/1g7YNA3rJ864ezWQlhbbFZczlIWLBpUX0/view) [Ryosuke Ushida] 
-    1. 14:50-15:00 Key Management WS (Centralized / Decentralized custody) [Yuji S]
+    1. 14:40-14:50  [Decentralized Financial Technologies and Privacy, Identity and Traceability WS](https://drive.google.com/file/d/1g7YNA3rJ864ezWQlhbbFZczlIWLBpUX0/view) Ryosuke Ushida
+    1. 14:50-15:00 Key Management WS (Centralized / Decentralized custody) Yuji S
 1. 15:00-15:50 Open discussion
     1. 15:00-15:25 Inputs from participants (5 min each)
         1. Ryan Taylor (Dash)
